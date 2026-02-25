@@ -1,6 +1,5 @@
-<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25dd1d" width="100%" />
-
-<h1 align="center">Hi 👋, I'm G Manushree</h1>
+<img src="https://images.unsplash.com/photo-1581090700227-4c4f50f2d0c1?auto=format&fit=crop&w=1600&q=80" width="100%" />
+<h1 align="center">Hi 👋, I'm Manushree</h1>
 <h3 align="center">🚀 Data Science Enthusiast | AI/ML in Healthcare | Blockchain Explorer</h3>
 
 ---
