@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1581090700227-4c4f50f2d0c1?auto=format&fit=crop&w=1600&q=80" width="100%" />
+<img src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg" width="100%" />
 <h1 align="center">Hi 👋, I'm Manushree</h1>
 <h3 align="center">🚀 Data Science Enthusiast | AI/ML in Healthcare | Blockchain Explorer</h3>
 
